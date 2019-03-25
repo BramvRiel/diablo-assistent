@@ -1,0 +1,2 @@
+C:\Bram van Riel\diablo-assistent\src\diablo-assistent\obj\Debug\diablo-assistent.njsproj.CoreCompileInputs.cache
+C:\Bram van Riel\diablo-assistent\src\diablo-assistent\bin\Microsoft.NodejsTools.WebRole.dll
