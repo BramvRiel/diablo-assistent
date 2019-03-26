@@ -1,4 +1,4 @@
-#, diablo-assistent
+# diablo-assistent
 App om spelers te assisteren tijdens het spelen van Diablo 2.
 
 ### Runewords - GraphQL
